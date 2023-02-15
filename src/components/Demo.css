@@ -1,0 +1,47 @@
+.demoP{
+    display: flex;
+    height: 60vh;
+    width: 80vw;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid rebeccapurple;
+    /* background-color: rgb(227, 39, 117); */
+
+}
+
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:cyan;
+    height: 100px;
+    width: 200px;
+}
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+    height: 100px;
+    width: 200px;
+}
+.three{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:green;
+    height: 100px;
+    width: 200px;
+}
+.four{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:yellowgreen;
+    height: 100px;
+    width: 200px;
+}
+
+.todoTitle{
+    color:rgb(37, 50, 50);
+}

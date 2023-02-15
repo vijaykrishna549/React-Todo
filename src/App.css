@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.exp{
+  display: flex;
+  width: 50vw;
+  height:60vh;
+  background-color: rgb(82, 103, 68);
+  justify-content: space-around;
+  
+  
+}
 
 .App-logo {
   height: 40vmin;
